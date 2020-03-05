@@ -428,7 +428,7 @@ int main() {
 	}
 	vector<int> loc;
 	for (int i = 0; i < L; i++) loc.push_back(0);	// vector loc is the main vector of locations
-													// 0 = untouched; 1 = open; 2 = closed
+							// 0 = untouched; 1 = open; 2 = closed
 
 	/////////////////////////////// SOLVING //////////////////////////////////////////////
 	
@@ -440,8 +440,6 @@ int main() {
 	cout << endl << (double)(clock() - time) / CLOCKS_PER_SEC << endl;
 }
 
-
-// можно улучшить, если СОВМЕСТИТЬ КУМАВАЛЫ !!!!!!!!!
 
 
 
