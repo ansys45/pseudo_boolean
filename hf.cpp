@@ -476,7 +476,7 @@ int main()
     vector<string> tests = {"capEx1.txt", "cap71.txt", "cap72.txt", "cap73.txt", "cap74.txt", "cap101.txt", "cap102.txt", "cap103.txt", 
                             "cap104.txt", "cap131.txt", "cap132.txt", "cap133.txt", "cap134.txt"};
     
-    vector<int> answers = {36, 932615, 977799, 1010641, 1034976, 796648, 854704, 893782, 928941, 793439, 851495, 893076, 928941};
+    vector<int> answers = {36, 932615, 977799, 1010641, 1034976, 796648, 854704, 893782, 928941, 793439, 851495, 894573, 928941};
 
     clock_t beginT = clock();
 
